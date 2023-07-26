@@ -47,7 +47,7 @@ body {
      font-family: 'Poppins', sans-serif;
      line-height: 1.80857;
      font-weight: normal;
-     background: url(../images/body_bg.png);
+     background: url(body_bg.png);
      background-size: 100% 100%;
      background-position: center;
      background-repeat: no-repeat;
@@ -320,7 +320,7 @@ button {
      position: absolute;
      top: 0;
      left: 0;
-     background: url("../images/pizza plain.jpg");
+     background: url("imagesin.jpg");
 }
 
 .logo a {
@@ -551,7 +551,7 @@ ul.conta_top li a {
 .about::before {
      position: absolute;
      content: "";
-     background: url(../images/tomatopaste.jpg);
+     background: url(tomatopaste.jpg);
      background-repeat: no-repeat;
      width: 360px;
      height: 212px;

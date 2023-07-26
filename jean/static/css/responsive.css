@@ -122,7 +122,7 @@ File Name: responsive.css
         margin-top: -37px;
     }
     .navigation.navbar-dark .navbar-toggler-icon {
-        background: url(../images/menu_icon.png);
+        background: url(menu_icon.png);
         background-repeat: no-repeat;
         width: 48px;
         float: right;
@@ -220,7 +220,7 @@ File Name: responsive.css
         margin-top: -37px;
     }
     .navigation.navbar-dark .navbar-toggler-icon {
-        background: url(../images/menu_icon.png);
+        background: url(menu_icon.png);
         background-repeat: no-repeat;
         width: 48px;
         float: right;
